@@ -1,1 +1,16 @@
 
+h1#mom {
+	color: red;
+	background: yellow;
+}
+h2.it {
+    background: green;
+}
+h3{
+	font-size: 34px;
+}
+li {
+    float: left;
+    padding: 11px;
+   list-style-type: none;
+	}
